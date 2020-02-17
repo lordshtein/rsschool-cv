@@ -4,6 +4,7 @@ My name is Ales Struchkov.
 You can find me at:
 * **VK** https://vk.com/cowboy_bebop
 * **telegram**  +375256854912
+
 About 1 year ago I decide to change my profession. Main reason of that was better ration between spend time and money in IT industry. So i was student in RS-School at 2018, but not successfully. 
 ## Skills
 Now i have some knowledge in CSS nad HTMl, JS and few practice of using React and React+Redux. You can check it
