@@ -1,1 +1,1 @@
- https://lordshtein.github.io/rsschool-cv/
+https://lordshtein.github.io/rsschool-cv/
