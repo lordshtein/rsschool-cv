@@ -15,7 +15,7 @@ Now i have some knowledge in CSS nad HTMl, JS and few practice of using React an
 
 There is my code example form RS-Lang App. Code checks answer and updates words difficulty.
 ```javascript
-const answerBtnClick = (answer) => {
+function answerBtnClick(answer) {
     setShowAnswers(false);
     if (answer !== question.isCorrectTranslation) {
       updateWordStatistic(10, true);
